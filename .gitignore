@@ -1,0 +1,7 @@
+/target
+
+# Desktop environment specific
+.directory
+
+# Editor specific
+.vscode
